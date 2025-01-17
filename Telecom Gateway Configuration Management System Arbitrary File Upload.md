@@ -14,13 +14,16 @@
 
 2. **Then, click on the following images:**
 
-   ![img](file:///C:\Users\28162\AppData\Local\Temp\QQ_1737139860500.png)
+ ![image](https://github.com/user-attachments/assets/286b6a33-30dd-4d06-8b7b-6366b788b1a0)
+
 
    Select any option:
 
-   ![img](file:///C:\Users\28162\AppData\Local\Temp\QQ_1737139871358.png)
+![image](https://github.com/user-attachments/assets/cb8d3c4f-b0eb-472c-bdd0-8807be6b56df)
 
-   ![img](file:///C:\Users\28162\AppData\Local\Temp\QQ_1737139885672.png)
+
+![image](https://github.com/user-attachments/assets/269b6909-1749-4fab-af0a-d7bc8a07c51f)
+
 
 3. **Choose a PNG file, click upload, and intercept the request. Modify it as follows:**
 
@@ -65,7 +68,8 @@
    -----------------------------378396372240200292154061098840--
    ```
 
-   ![img](file:///C:\Users\28162\AppData\Local\Temp\QQ_1737139980103.png)
+   ![image](https://github.com/user-attachments/assets/cc4352a6-cd92-4d92-9c77-d7b994bfc192)
+
 
 4. **Access the uploaded file:**
 
