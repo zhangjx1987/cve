@@ -17,10 +17,7 @@
 
 2. **Proceed with deletion:**
 
-   ![Deletion Image](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20250118024828086.png)
+![image](https://github.com/user-attachments/assets/875434fe-8bef-42fa-bdca-8f02689244a3)
+
 
    Simply click the delete option to perform the file deletion.
-
----
-
-Please ensure that any testing or actions performed are authorized and comply with all applicable laws and regulations. Unauthorized activities can lead to legal consequences.
