@@ -35,9 +35,10 @@ pty.spawn("sh")
 3. Insert the payload into the function.
 4. Click "Debug" and execute the function.
 
-![img](file:///C:\Users\28162\AppData\Local\Temp\QQ_1737205693192.png)
+![image](https://github.com/user-attachments/assets/30a517cf-1a56-436e-b7a5-cebd7b9c7150)
+
 
 **Result:**
 A reverse shell was successfully obtained.
 
-![img](file:///C:\Users\28162\AppData\Local\Temp\QQ_1737205774585.png)
+![image](https://github.com/user-attachments/assets/fe66d79b-c24b-4b04-8c67-61051feb85f7)
