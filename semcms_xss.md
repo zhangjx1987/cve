@@ -169,9 +169,11 @@ ByPassWaf<script>alert(1)</script>
 ------WebKitFormBoundaryUXoPLk1h1J5BweQB--
 ```
 
-![img](file:///C:\Users\28162\AppData\Local\Temp\QQ_1739275216782.png)
+![image](https://github.com/user-attachments/assets/3821c8a5-d5e4-4a26-8bab-b41147ca778a)
 
-![img](file:///C:\Users\28162\AppData\Local\Temp\QQ_1739275246786.png)
+
+![image](https://github.com/user-attachments/assets/af0abf86-b856-494b-8d67-6d21c8c1036f)
+
 
 ---
 
