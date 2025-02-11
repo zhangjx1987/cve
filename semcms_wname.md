@@ -1,5 +1,5 @@
 Path Traversal Vulnerability (CWE-22)
-1. downland_url:https://www.sem-cms.com/TradeCmsdown/php/semcms_php_5.0.zip
+1. download_url:https://www.sem-cms.com/TradeCmsdown/php/semcms_php_5.0.zip
 
 2. Path Concatenation**
    The value of `$Imageurl` parameter `../Images/default/` concatenated with the value of `wname` parameter `../../shell`, results in the final storage path:
