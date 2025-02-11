@@ -1,5 +1,5 @@
 #### 1. Path Traversal Vulnerability (CWE-22)
-downland_url:https://www.sem-cms.com/TradeCmsdown/php/semcms_php_5.0.zip
+download_url:https://www.sem-cms.com/TradeCmsdown/php/semcms_php_5.0.zip
 
 **Vulnerability Description:**
 The code directly receives user-controlled path parameters through `$Imageurl = $_POST["imageurl"]` without normalization. An attacker can craft a payload like `imageurl=../Images/default/../../` to bypass the preset storage path restrictions and upload files to any directory.
